@@ -48,16 +48,16 @@ _Dernière mise à jour : 10 avril 2026_
 | La Vanguardia | Astrid Meseguer | Astrid@lavanguardia.es + cultura@lavanguardia.es | 1 avr | 10 avr | — | En attente |
 | El Periódico | Nando Salva | nsalva@elperiodico.es | 1 avr | — | — | En attente |
 | El Periódico | Leticia Blanco | LBlanco@elperiodico.com | 2 avr | — | — | En attente |
-| RTVE — De Película (Radio 1 & 5) | Yolanda Flores Remón | yolanda.flores@rtve.es | 2 avr | — | — | ✅ POSITIF — interview prévue le 23 avr |
+| RTVE — De Película (Radio 1 & 5) | Yolanda Flores Remón | yolanda.flores@rtve.es | 2 avr | — | — | ✅ CONFIRMÉ — interview le 23 avr |
 | RTVE | Rufino Sanchez | rufino.sanchez@rtve.es | 2 avr | 10 avr | — | ✅ Répondu — transféré à Gerardo Sánchez & Javier Sales |
 | Kinotico | Iñaki Mayora / Matias Rebolledo | inaki.mayora@kinotico.es / matias.rebolledo@kinotico.es | 2 avr | 10 avr | — | En attente |
 | El Diario | Elena Cabrera / Javier Zurro | ecabrera@eldiario.es / jzurro@eldiario.es | 2 avr | 10 avr | — | En attente |
 | 3Cat / TV3 | Montse Pujol Cullere | Cultura@3cat.cat / mpujol.c@3cat.cat | 2 avr | 10 avr | — | En attente |
-| Caimán Cuadernos de Cine | Jara | caiman.cdc@caimanediciones.es | 2 avr | — | — | En attente |
+| Caimán Cuadernos de Cine | Jara | caiman.cdc@caimanediciones.es | 2 avr | 7 avr | — | En attente |
 | Audiovisual 451 | Irene / David | irene@audiovisual451.com / david@audiovisual451.com | 2 avr | — | — | En attente |
 | 35 mm | Carlos / Alvaro | redaccion@35milimetros.es | 2 avr | — | — | 📰 PUBLIÉ — [voir l'article](https://35milimetros.es/cinestoria-segunda-edicion-istoria-lab/) |
-| Cineconn | Arturo / José | gestion@cineconn.es | 2 avr | — | — | En attente |
-| Contracultural | Maria Arnau | info@contracultural.es | 2 avr | — | — | En attente |
+| Cineconn | Arturo / José | gestion@cineconn.es | 2 avr | 7 avr | — | En attente |
+| Contracultural | Maria Arnau | info@contracultural.es | 2 avr | 7 avr | — | En attente |
 | Cortos de Metraje | Alejandro | comunicacion@cortosdemetraje.com | 2 avr | — | — | En attente |
 | ACN (Agència Catalana de Notícies) | Nicolas / Javier | ntomas-lanchon@acn.cat / jrubio@acn.cat | 2 avr | — | — | En attente |
 | Europa Press | Luis Arriola / Alberto Ortega | luisarriola@europapress.es / albertoortega@europapress.es | 2 avr | — | — | En attente |
@@ -68,7 +68,7 @@ _Dernière mise à jour : 10 avril 2026_
 
 ## Notes importantes
 
-- **Yolanda Flores (RTVE De Película)** — contact très chaud : a rappelé, veut une interview avec Roma le **23 avril** — à confirmer impérativement
+- **Yolanda Flores (RTVE De Película)** — interview **CONFIRMÉE le 23 avril** avec Roma
 - **Rufino Sanchez (RTVE)** — a transféré au programme de direction (Gerardo Sánchez + Javier Sales) le 7 avr — relance le 10 avr
 - **Maxence Dourlen (Actu.fr)** — a redirigé vers Actu Toulouse et Le Métropolitain le 8 avr
 - **Nicolas Hubert (La Région)** — absent jusqu'au 13 avr (réponse automatique)
