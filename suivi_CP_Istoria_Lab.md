@@ -1,5 +1,6 @@
 # Tableau de suivi — Communiqué de presse Istòria Lab
-_Mis à jour le 10 avril 2026 — Compte : prouinpro@gmail.com_
+_Mis à jour le 10 avril 2026 — Compte : prouinpro@gmail.com_  
+_Dernière mise à jour : 10 avril 2026_
 
 ---
 
@@ -54,7 +55,7 @@ _Mis à jour le 10 avril 2026 — Compte : prouinpro@gmail.com_
 | 3Cat / TV3 | Montse Pujol Cullere | Cultura@3cat.cat / mpujol.c@3cat.cat | 2 avr | 10 avr | — | En attente |
 | Caimán Cuadernos de Cine | Jara | caiman.cdc@caimanediciones.es | 2 avr | — | — | En attente |
 | Audiovisual 451 | Irene / David | irene@audiovisual451.com / david@audiovisual451.com | 2 avr | — | — | En attente |
-| 35 mm | Carlos / Alvaro | redaccion@35milimetros.es | 2 avr | — | — | En attente |
+| 35 mm | Carlos / Alvaro | redaccion@35milimetros.es | 2 avr | — | — | 📰 PUBLIÉ — [voir l'article](https://35milimetros.es/cinestoria-segunda-edicion-istoria-lab/) |
 | Cineconn | Arturo / José | gestion@cineconn.es | 2 avr | — | — | En attente |
 | Contracultural | Maria Arnau | info@contracultural.es | 2 avr | — | — | En attente |
 | Cortos de Metraje | Alejandro | comunicacion@cortosdemetraje.com | 2 avr | — | — | En attente |
