@@ -128,12 +128,12 @@ for i, col in enumerate(cols, 1):
 ws_es.row_dimensions[2].height = 22
 
 espagne_data = [
-    ("La Vanguardia",               "Astrid Meseguer",              "Astrid@lavanguardia.es / cultura@lavanguardia.es",       "01/04/2026", "10/04/2026", "—",          "En attente"),
+    ("La Vanguardia",               "Astrid Meseguer",              "Astrid@lavanguardia.es / cultura@lavanguardia.es",       "01/04/2026", "07/04/2026", "10/04/2026", "En attente — 2e relance envoyée (BCN Film Fest / Sant Jordi)"),
     ("El Periódico",                "Nando Salva",                  "nsalva@elperiodico.es",                                 "01/04/2026", "—",          "—",          "En attente"),
     ("El Periódico",                "Leticia Blanco",               "LBlanco@elperiodico.com",                               "02/04/2026", "—",          "—",          "En attente"),
     ("RTVE — De Película (R1 & R5)","Yolanda Flores Remón",         "yolanda.flores@rtve.es",                                "02/04/2026", "—",          "—",          "✅ CONFIRMÉ — interview le 23/04"),
-    ("RTVE",                        "Rufino Sanchez",               "rufino.sanchez@rtve.es",                                "02/04/2026", "10/04/2026", "—",          "✅ Répondu — transféré à Gerardo Sánchez & Javier Sales"),
-    ("Kinotico",                    "Iñaki Mayora / Matias Rebolledo","inaki.mayora@kinotico.es / matias.rebolledo@kinotico.es","02/04/2026","10/04/2026","—",           "En attente"),
+    ("RTVE",                        "Rufino Sanchez",               "rufino.sanchez@rtve.es",                                "02/04/2026", "10/04/2026", "—",          "✅ Répondu (×2) — Gerardo & Javier en délibération"),
+    ("Kinotico",                    "Iñaki Mayora / Matias Rebolledo","inaki.mayora@kinotico.es / matias.rebolledo@kinotico.es","02/04/2026","07/04/2026","10/04/2026",  "En attente"),
     ("El Diario",                   "Elena Cabrera / Javier Zurro", "ecabrera@eldiario.es / jzurro@eldiario.es",             "02/04/2026", "10/04/2026", "—",          "En attente"),
     ("3Cat / TV3",                  "Montse Pujol Cullere",         "Cultura@3cat.cat / mpujol.c@3cat.cat",                  "02/04/2026", "10/04/2026", "—",          "En attente"),
     ("Caimán Cuadernos de Cine",    "Jara",                         "caiman.cdc@caimanediciones.es",                         "02/04/2026", "07/04/2026", "—",          "En attente"),
