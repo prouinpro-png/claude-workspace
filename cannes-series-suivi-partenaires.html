@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cannes Séries 2026 – Suivi Partenaires Habillement & Accessoires</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #0d0d0d;
+      color: #f0f0f0;
+      padding: 32px 24px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+
+    header h1 {
+      font-size: 1.6rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #c9a84c;
+    }
+
+    header p {
+      font-size: 0.85rem;
+      color: #888;
+      margin-top: 6px;
+    }
+
+    .legend {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.78rem;
+      color: #aaa;
+    }
+
+    .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+
+    .dot-sent    { background: #4a90d9; }
+    .dot-pending { background: #e0a030; }
+    .dot-ok      { background: #4caf50; }
+    .dot-none    { background: #555; }
+
+    .table-wrapper {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+      min-width: 700px;
+    }
+
+    thead tr {
+      background: #1a1a1a;
+      border-bottom: 2px solid #c9a84c;
+    }
+
+    thead th {
+      padding: 12px 14px;
+      text-align: left;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: #c9a84c;
+      white-space: nowrap;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid #222;
+      transition: background 0.15s;
+    }
+
+    tbody tr:hover { background: #1c1c1c; }
+
+    tbody td {
+      padding: 10px 14px;
+      vertical-align: middle;
+    }
+
+    .brand { font-weight: 600; color: #fff; }
+
+    .badge {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .badge-sent    { background: #1a3a5c; color: #4a90d9; }
+    .badge-pending { background: #3a2800; color: #e0a030; }
+    .badge-ok      { background: #1a3a1a; color: #4caf50; }
+    .badge-none    { background: #2a2a2a; color: #777; }
+
+    .date { color: #aaa; font-size: 0.8rem; }
+
+    tfoot tr td {
+      padding: 10px 14px;
+      font-size: 0.78rem;
+      color: #555;
+      font-style: italic;
+      border-top: 1px solid #2a2a2a;
+    }
+
+    .note {
+      margin-top: 28px;
+      background: #1a1a1a;
+      border-left: 3px solid #c9a84c;
+      padding: 14px 18px;
+      border-radius: 4px;
+      font-size: 0.82rem;
+      color: #aaa;
+      line-height: 1.6;
+    }
+
+    .note strong { color: #c9a84c; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Cannes Séries 2026</h1>
+  <p>Suivi Partenaires — Habillement &amp; Accessoires · Contact : Youcef Agal</p>
+</header>
+
+<div class="legend">
+  <div class="legend-item"><div class="dot dot-sent"></div> Mail envoyé</div>
+  <div class="legend-item"><div class="dot dot-pending"></div> En attente</div>
+  <div class="legend-item"><div class="dot dot-ok"></div> Confirmé</div>
+  <div class="legend-item"><div class="dot dot-none"></div> À contacter</div>
+</div>
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Marque</th>
+        <th>Bureau de presse</th>
+        <th>1er contact (mail)</th>
+        <th>Date 1er contact</th>
+        <th>2e relance (mail)</th>
+        <th>Date relance</th>
+        <th>Statut</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <!-- ── HABILLEMENT ── -->
+      <tr>
+        <td style="color:#555">H01</td>
+        <td class="brand">—</td>
+        <td>—</td>
+        <td><span class="badge badge-none">À renseigner</span></td>
+        <td class="date">—</td>
+        <td><span class="badge badge-none">—</span></td>
+        <td class="date">—</td>
+        <td>—</td>
+      </tr>
+
+      <!-- Template rows – dupliquez selon vos contacts -->
+      <tr>
+        <td style="color:#555">H02</td>
+        <td class="brand">—</td>
+        <td>—</td>
+        <td><span class="badge badge-none">À renseigner</span></td>
+        <td class="date">—</td>
+        <td><span class="badge badge-none">—</span></td>
+        <td class="date">—</td>
+        <td>—</td>
+      </tr>
+
+      <!-- ── ACCESSOIRES ── -->
+      <tr>
+        <td style="color:#555">A01</td>
+        <td class="brand">—</td>
+        <td>—</td>
+        <td><span class="badge badge-none">À renseigner</span></td>
+        <td class="date">—</td>
+        <td><span class="badge badge-none">—</span></td>
+        <td class="date">—</td>
+        <td>—</td>
+      </tr>
+
+      <tr>
+        <td style="color:#555">A02</td>
+        <td class="brand">—</td>
+        <td>—</td>
+        <td><span class="badge badge-none">À renseigner</span></td>
+        <td class="date">—</td>
+        <td><span class="badge badge-none">—</span></td>
+        <td class="date">—</td>
+        <td>—</td>
+      </tr>
+
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="8">
+          Objet mail type : <strong>« Demande de prêt / Cannes Series 26 / Youcef Agal »</strong>
+        </td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div class="note">
+  <strong>Comment remplir ce tableau :</strong><br>
+  1. Ouvrez votre Gmail (<strong>prouinpro@gmail.com</strong>) et filtrez par objet : <em>« Demande de prêt / Cannes Series 26 »</em><br>
+  2. Pour chaque mail envoyé, renseignez la <strong>Marque</strong>, le <strong>Bureau de presse</strong> destinataire, et la date du <strong>1er contact</strong>.<br>
+  3. Dupliquez les lignes au besoin (préfixe H = Habillement, A = Accessoires).<br>
+  4. Mettez à jour la colonne <strong>2e relance</strong> et <strong>Statut</strong> au fil des échanges.
+</div>
+
+</body>
+</html>
